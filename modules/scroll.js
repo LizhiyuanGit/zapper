@@ -1,8 +1,6 @@
 /**
  * Created by L.lawliet on 2018/2/28.
  */
-
- 
 zapper({
     observer : 'observer.js'
 },function( $ , module ){
