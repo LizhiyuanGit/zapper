@@ -1,5 +1,11 @@
 /**
+    三六九等浪费 i 为 u 哦任务饿哦入味
+    圣诞节福利时间地方
+    收到了佛教
+ * Created by L.lawliet on 2018/3/5. 项目测试
+    老实交代了佛教历史的肌肤
  * Created by L.lawliet on 2018/3/5. 
+    老实交代了佛教三闾大夫
  */
 zapper({
     observer : 'observer.js'
