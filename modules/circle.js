@@ -1,4 +1,3 @@
-// 老时间地方了就是老地方见  哈哈哈哈哈
 zapper({
     observer : 'observer.js'
 },function( $ , module ){
