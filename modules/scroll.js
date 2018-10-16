@@ -1,6 +1,5 @@
 /**
  * Created by L.lawliet on 2018/2/28.
- * 分支 模块
  */
 zapper({
     observer : 'observer.js'
