@@ -1,4 +1,3 @@
-
 zapper({
     observer : 'observer.js'
 },function( $ , module ){
