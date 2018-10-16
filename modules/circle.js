@@ -1,5 +1,8 @@
 /**
- * Created by L.lawliet on 2018/3/5. 项目测试
+ * Created by L.lawliet on 2018/3/5. 
+    老实交代了佛教历史的肌肤
+    圣诞节福利时间地方
+    收到了佛教
  */
 zapper({
     observer : 'observer.js'
